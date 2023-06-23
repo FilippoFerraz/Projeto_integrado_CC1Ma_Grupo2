@@ -15,6 +15,6 @@ Contem os arquivos:
 - **Conceitual_pronto.brM3** modelo conceitual do banco de dados feito no app "BrModelo"
 - **Conceitual_pronto.png** Foto em PNG do modelo conceitual do banco de dados
 - **Projeto_logico.pdf** - pdf do diagrama do banco de dados
-- **projeto_logico_pornto.architect** - diagrama do banco de dados feito no app "SQL Power Architect"
+- **projeto_logico_pronto.architect** - diagrama do banco de dados feito no app "SQL Power Architect"
 - **script_projeto_logico.sql** - script da estrutura do banco de dados feito no app "DBeaver CE"
 
